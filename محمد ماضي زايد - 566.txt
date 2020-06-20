@@ -1,0 +1,5 @@
+س1 :Button
+س2 :Foreground
+س3 : Font
+س4 :Logcat
+س5 :صح
